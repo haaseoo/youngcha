@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d773a36eefcb6a47a7b98d2630305d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - badgeImage: {instanceID: 0}
+  - level1Badge: {fileID: 21300000, guid: 9773c1b4c0e58457591b60604ced5030, type: 3}
+  - level2Badge: {fileID: 21300000, guid: 56e14e81e0d484b1a8beccf775b2e593, type: 3}
+  - level3Badge: {fileID: 21300000, guid: e11fddfe47d54496aa87cccb7705533d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
